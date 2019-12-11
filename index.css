@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.reader {
+
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.text {
+    text-align: center;
+}
+
+.wrap {
+    width: 980px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 140px;
+    margin-bottom: 15px;
+    background-color: #C4C4C4;
+    ;
+}
+
+.content {
+    width: 690px;
+    height: 450px;
+    background-color: #C4C4C4;
+    ;
+    float: right;
+}
+
+.sidebar {
+    width: 275px;
+    height: 450px;
+    background-color: #0d7963;
+    float: left;
+}
+
+.footer {
+    height: 70px;
+    margin-top: 15px;
+    background-color: #0d7963;
+}
+
+.clear {
+    clear: both;
+}
